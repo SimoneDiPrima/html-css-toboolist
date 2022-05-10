@@ -16,7 +16,7 @@ ul{
 }
 h1{
     display: inline;
-    vertical-align: center;
+    line-height:50%;
 }
 .container{
     margin-left: 100px;
@@ -37,7 +37,7 @@ h1{
     color:lightgray;
 }
 .check{
-    font-size:10px;
+  
     text-align:center;
     height:10px;
     width:10px;
@@ -55,4 +55,30 @@ h1{
     border:1px solid red;
     border-radius:50%;
     margin-right:5px;
+}
+.colored-word{
+    
+    margin-left:5px;
+    height:50px;
+    width:60px;
+    border:1px solid transparent;
+    border-radius:20%;
+    text-align:center;
+    vertical-align:center;
+    color:white;
+}
+#blue-word{
+    background-color: dodgerblue; 
+}
+#pink-word{
+    background-color: pink;
+}
+#light-word{
+    background-color: lightblue;
+}
+#yellow-word{
+    background-color: yellow;
+}
+#orange-word{
+    background-color: orange;
 }
