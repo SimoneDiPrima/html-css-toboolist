@@ -1,5 +1,24 @@
-.body{
-    height: 100px;
-    width: 100px;
-    background-color: green;
+*{
+    background-color: lightgrey;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+#logo{
+   vertical-align: center;
+}
+
+h1{
+    display: inline;
+    vertical-align: center;
+}
+.container{
+    margin-left: 100px;
+    padding:50px;
+}
+.nav{
+ 
+}
+#add-task{
+    background-color: dodgerblue;
 }
