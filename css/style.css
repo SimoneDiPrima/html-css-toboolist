@@ -7,7 +7,12 @@
 #logo{
    vertical-align: center;
 }
-
+.entities{
+    font-size:50%;
+}
+ul{
+    list-style-type:none;
+}
 h1{
     display: inline;
     vertical-align: center;
@@ -15,6 +20,7 @@ h1{
 .container{
     margin-left: 100px;
     padding:50px;
+    font-size:25px;
 }
 .nav{
  
